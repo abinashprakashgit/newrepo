@@ -17,5 +17,9 @@ public void setPassword(String password) {
 	this.password = password;
 }
 
+public static void main(String[] args) {
+	System.out.println("hello");
+}
+
 }
 
